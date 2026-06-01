@@ -71,7 +71,7 @@ I enjoy transforming business requirements into scalable digital products that d
             <a aria-label="GitHub" href="https://github.com/sumiayaaim" target="_blank" rel="noreferrer" className="p-2.5 rounded-full hover:bg-white/5 text-muted-foreground hover:text-foreground transition">
               <GithubIcon className="h-5 w-5" />
             </a>
-            <a aria-label="LinkedIn" href="https://linkedin.com/in/sumiayaaiman-9b1a20349" target="_blank" rel="noreferrer" className="p-2.5 rounded-full hover:bg-white/5 text-muted-foreground hover:text-foreground transition">
+            <a aria-label="LinkedIn" href="https://www.linkedin.com/in/sumiaya-aiman-9b1a20349" target="_blank" rel="noreferrer" className="p-2.5 rounded-full hover:bg-white/5 text-muted-foreground hover:text-foreground transition">
               <LinkedinIcon className="h-5 w-5" />
             </a>
             <a aria-label="Email" href="mailto:sumiayaaiman@gmail.com" className="p-2.5 rounded-full hover:bg-white/5 text-muted-foreground hover:text-foreground transition">

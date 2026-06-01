@@ -72,7 +72,7 @@ export function Contact() {
             </a>
 
             <a
-              href="https://linkedin.com/in/sumiayaaiman-9b1a20349"
+              href="https://www.linkedin.com/in/sumiaya-aiman-9b1a20349"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-between p-4 rounded-2xl bg-white/[0.04] border border-white/10 hover:bg-white/[0.08] transition group"
